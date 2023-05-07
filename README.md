@@ -16,10 +16,18 @@ To run the application, follow these steps:
 ## Technologies Used
 The following technologies were used to build this application:
 
-![HTML Logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F61%2FHTML5_logo_and_wordmark.svg%2F640px-HTML5_logo_and_wordmark.svg.png&tbnid=Dok8zXrc1xqegM&vet=12ahUKEwiynNm33OP-AhUCmicCHSdZDFEQMygAegUIARDjAQ..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&docid=1Ted8cCjatfjsM&w=640&h=640&q=html&hl=en-US&ved=2ahUKEwiynNm33OP-AhUCmicCHSdZDFEQMygAegUIARDjAQ)
-![CSS Logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd5%2FCSS3_logo_and_wordmark.svg%2F1200px-CSS3_logo_and_wordmark.svg.png&tbnid=CQe3fY7nNccEWM&vet=12ahUKEwjDrsXZ3OP-AhW0nCcCHTHHCJcQMygAegUIARDiAQ..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCSS&docid=m95i5R440PM28M&w=1200&h=1693&q=css&hl=en-US&ved=2ahUKEwjDrsXZ3OP-AhW0nCcCHTHHCJcQMygAegUIARDiAQ)
-![JS Logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.javascripttutorial.net%2Fwp-content%2Fuploads%2F2021%2F04%2FJavaScript-Tutorial.svg&tbnid=hU9s2YTIGmF2PM&vet=12ahUKEwi86vXo3OP-AhWcmycCHQfUB1wQMygAegUIARCKAQ..i&imgrefurl=https%3A%2F%2Fwww.javascripttutorial.net%2F&docid=OPjezLJLbOw5kM&w=800&h=800&q=js&hl=en-US&ved=2ahUKEwi86vXo3OP-AhWcmycCHQfUB1wQMygAegUIARCKAQ)
-
+<ul>
+<p >
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
+<p>React</p>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+<p>Node.js</p>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/>
+<p>HTML</p>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/>
+<p>CSS</p>
+</p>
+</ul>
 ## Author & License
 This application was created by Mark Mwendwa [mwendwamark]. It is licensed under the MIT License.
 
