@@ -20,7 +20,7 @@ The following technologies were used to build this application:
 
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
 <p>Node.js</p>
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.javascripttutorial.net%2Fwp-content%2Fuploads%2F2021%2F04%2FJavaScript-Tutorial.svg&tbnid=hU9s2YTIGmF2PM&vet=12ahUKEwi86vXo3OP-AhWcmycCHQfUB1wQMygAegUIARCKAQ..i&imgrefurl=https%3A%2F%2Fwww.javascripttutorial.net%2F&docid=OPjezLJLbOw5kM&w=800&h=800&q=js&hl=en-US&ved=2ahUKEwi86vXo3OP-AhWcmycCHQfUB1wQMygAegUIARCKAQ" alt="HTML" width="40" height="40"/>
 <p>HTML</p>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/>
 <p>CSS</p>
