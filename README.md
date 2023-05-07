@@ -17,9 +17,8 @@ To run the application, follow these steps:
 The following technologies were used to build this application:
 
 <ul>
-<p >
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
 
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
 <p>Node.js</p>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/>
 <p>HTML</p>
@@ -27,6 +26,7 @@ The following technologies were used to build this application:
 <p>CSS</p>
 </p>
 </ul>
+
 ## Author & License
 This application was created by Mark Mwendwa [mwendwamark]. It is licensed under the MIT License.
 
